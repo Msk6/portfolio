@@ -1,0 +1,45 @@
+body {
+	background-image: url(wooden-background.jpg);
+	background-size: 100% 100%;
+	text-align: center;
+	}
+
+
+button {
+	background-color: none; /* yelow */
+ 	border:1.5px solid #FE491A;
+	color: #FE491A;
+	padding: 2px 4px;
+	width: 70px;
+	text-align: center;
+	font-size: 12px;
+	border-radius: 12px;
+}
+
+ul li {
+	display: inline-block;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: : 10px;
+	padding-right: 10px;
+	
+}
+
+
+
+#content {
+	padding-bottom: 110px
+}
+
+#image {
+	padding-top: 30px;
+	display: inline-block;
+}
+
+#image img {
+	width: 260px;
+	height: 180px;
+}
+
+
+
